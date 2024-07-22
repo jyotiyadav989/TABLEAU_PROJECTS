@@ -1,1 +1,2 @@
-# TABLEAU_PROJECTS
+# HRANALYTICS
+This HR analytics dashboard, created using Tableau and contained in this workbook (HRANALYTICS.twb), includes various charts such as lollipop charts, bar charts, line charts, bin plots, heat maps, and pie charts. These visualizations help in comparing categories, analyzing trends, understanding data distributions, and visualizing relationships between variables. The dashboard also features interactive elements like filters and parameters for customized views and detailed data exploration. Calculated fields are used to create new metrics and insights, providing valuable information for HR professionals to make informed decisions and improve HR processes.
